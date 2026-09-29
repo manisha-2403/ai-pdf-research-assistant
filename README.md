@@ -542,7 +542,7 @@ This project was built to demonstrate practical understanding of:
 
 # 👩‍💻 Author
 
-**Serena**
+**Manisha**
 
 BCA Graduate | AI & Generative AI Enthusiast
 
