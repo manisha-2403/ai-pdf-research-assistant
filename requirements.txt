@@ -4,6 +4,6 @@ python-multipart
 pypdf
 python-dotenv
 groq
-sentence-transformers
+requests
 numpy
 faiss-cpu
